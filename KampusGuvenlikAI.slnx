@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="KampusGuvenlikAI.Core/KampusGuvenlikAI.Core.csproj" />
+  <Project Path="KampusGuvenlikAI.WinForms/KampusGuvenlikAI.WinForms.csproj" />
+</Solution>
